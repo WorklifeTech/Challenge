@@ -25,7 +25,7 @@ We ask users 5 questions in a single session, where each answer is an integer fr
 Each session consists of a `groupId`, `answeredOn` and answer scores `answer1` to `answer5`.
 For the sake of simplicity, you can combine these 5 answers to a single value and use that in your method if you'd like.
 
-We provide you a dataset of sessions in `answers.json` file.
+We provide you a dataset of sessions in [answers.json](answers.json) file.
 
 ## Submission
 Please send us a link to a public repo with the code (eg. on github or gitlab).
